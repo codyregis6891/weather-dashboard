@@ -1,11 +1,39 @@
-# weather-dashboard
+# Weather Dashboard
 
-For this assignment I was tasked with creating a live weather dashboard that would request live weather data via API keys nad retrieve the information and post it to the application.  
+## License
 
-I was able to accomplish this task, and by using my presonally generated API keys, I was able to get the information on the weather forecasts and live updates, and transfer this information to my live application. 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Below is a screenshot of the live application and a link to the site:
+![Screenshot of live application.](./assets/images/weather-screenshot.png)
+
+## Live Application
 
 https://codyregis6891.github.io/weather-dashboard/
 
-![Screenshot of live application.](./assets/images/weather-screenshot.png)
+## Technology Used
+
+* Javascript
+* API fetch requests
+* HTML
+* CSS
+
+
+## Description
+
+This is a live weather dashboard that requests live weather data via API keys and retrieves the information then posts it to the application.
+
+## Installation
+
+1. Clone the Repo
+  ```sh
+  git@github.com:codyregis6891/weather-dashboard.git
+  ```
+2. View on your browser via localhost
+  ```sh
+  Right-click on index.html in VSCode, then click on "Open in Default Browser"
+  ```
+
+## Questions or Issues?
+
+* Email: codyregis6891@yahoo.com
+* https://github.com/codyregis6891/weather-dashboard/issues
