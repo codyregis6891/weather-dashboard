@@ -35,5 +35,5 @@ This is a live weather dashboard that requests live weather data via API keys an
 
 ## Questions or Issues?
 
-* Email: codyregis6891@yahoo.com
+* Email: codyregis6891@gmail.com
 * https://github.com/codyregis6891/weather-dashboard/issues
